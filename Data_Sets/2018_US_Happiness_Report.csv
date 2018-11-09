@@ -1,51 +1,55 @@
-﻿Overall Rank (1 Happiest),State,Total Score,‘Emotional & Physical Well-Being’ Rank,‘Work Environment’ Rank ,‘Community & Environment’ Rank,,Source:
-1,Hawaii,68.27,1,30,4,,https://wallethub.com/edu/happiest-states/6959/
-2,Utah,67.84,18,1,2,,
-3,Minnesota,67.26,2,6,10,,
-4,North Dakota,65.62,6,9,6,,
-5,California,63.14,4,24,12,,
-6,Idaho,63.09,24,2,1,,
-7,Maryland,61.78,7,38,5,,
-8,Iowa,61.07,8,18,11,,
-9,South Dakota,60.8,14,13,8,,
-10,Nebraska,59.11,10,17,28,,
-11,Wisconsin,58.87,16,11,14,,
-12,Connecticut,58.24,9,40,18,,
-13,New Jersey,58.1,3,44,38,,
-14,New York,57.35,5,42,39,,
-15,Virginia,57.35,15,25,27,,
-16,Massachusetts,56.85,13,14,42,,
-17,Washington,56.44,29,5,9,,
-18,Colorado,55.38,19,3,46,,
-19,Georgia,55.15,25,16,7,,
-20,North Carolina,53.69,21,21,37,,
-21,Arizona,52.92,27,12,34,,
-22,Texas,52.56,11,28,49,,
-23,Illinois,52.47,12,45,44,,
-24,New Hampshire,52.37,23,27,31,,
-25,Kansas,52.3,22,33,36,,
-26,Nevada,51.8,40,15,3,,
-27,Delaware,51.67,17,37,45,,
-28,Montana,51.08,37,7,17,,
-29,Florida,51.01,20,20,47,,
-30,Pennsylvania,50.54,28,41,15,,
-31,Rhode Island,50.44,30,31,29,,
-32,Indiana,50.2,32,22,25,,
-33,Maine,49.81,36,10,30,,
-34,Michigan,49.52,34,26,20,,
-35,Wyoming,48.9,31,43,22,,
-36,South Carolina,48.26,38,32,13,,
-37,Ohio,48.19,35,36,16,,
-38,Vermont,48.18,26,23,48,,
-39,Oregon,48.05,43,4,24,,
-40,Tennessee,46.13,41,8,40,,
-41,New Mexico,43.35,39,47,35,,
-42,Missouri,42.76,45,34,21,,
-43,Mississippi,41.63,42,46,26,,
-44,Kentucky,39.42,48,19,19,,
-45,Alabama,39.35,46,39,43,,
-46,Oklahoma,38.89,47,35,33,,
-47,Alaska,38.21,33,49,50,,
-48,Louisiana,37.15,44,50,41,,
-49,Arkansas,36.61,50,29,23,,
-50,West Virginia,33.42,49,48,32,,
+State	"Overall Rank
+ (1 Happiest)"	"% Sun 
+Ranking"	"Temperature
+Ranking"	"Precipitation
+Ranking"
+Hawaii	1	4	2	1
+Utah	2	9	32	49
+Minnesota	3	26	47	37
+North Dakota	4	23	49	43
+California	5	6	12	40
+Idaho	6	13	40	42
+Maryland	7	31	20	18
+Iowa	8	24	36	31
+South Dakota	9	15	38	41
+Nebraska	10	17	30	38
+Wisconsin	11	40	43	33
+Connecticut	12	34	29	10
+New Jersey	13	35	22	15
+New York	14	47	37	25
+Virginia	15	16	17	19
+Massachusetts	16	27	35	14
+Washington	17	46	34	29
+Colorado	18	5	39	44
+Georgia	19	10	5	7
+North Carolina	20	21	13	9
+Arizona	21	1	10	47
+Texas	22	18	4	34
+Illinois	23	36	24	27
+New Hampshire	24	41	42	20
+Kansas	25	12	19	35
+Nevada	26	2	28	50
+Delaware	27		16	16
+Montana	28	25	45	45
+Florida	29	11	1	5
+Pennsylvania	30	28	31	21
+Rhode Island	31	29	27	13
+Indiana	32	39	25	26
+Maine	33	32	48	24
+Michigan	34	42	41	32
+Wyoming	35	7	46	48
+South Carolina	36	14	8	11
+Ohio	37	43	26	28
+Vermont	38	44	44	22
+Oregon	39	45	33	36
+Tennessee	40	37	14	6
+New Mexico	41	3	21	46
+Missouri	42	22	18	23
+Mississippi	43	19	6	3
+Kentucky	44	38	15	12
+Alabama	45	30	7	4
+Oklahoma	46	8	11	30
+Alaska	47	48	50	39
+Louisiana	48	33	3	2
+Arkansas	49	20	9	8
+West Virginia	50		23	17
